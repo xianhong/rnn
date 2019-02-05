@@ -6,3 +6,5 @@ words
 .ipynb_checkpoints
 RNN_model-*
 *Gone_with*
+checkpoint
+*.npy
