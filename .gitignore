@@ -1,0 +1,8 @@
+*.index
+*.meta
+*.txt
+vectors
+words
+.ipynb_checkpoints
+RNN_model-*
+*Gone_with*
