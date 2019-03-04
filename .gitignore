@@ -1,8 +1,9 @@
-*.index
-*.meta
-*.txt
-vectors
-words
+glove/data.txt
+./*.index
+./*.meta
+./*.txt
+./vectors
+./words
 .ipynb_checkpoints
 RNN_model-*
 *Gone_with*
